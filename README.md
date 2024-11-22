@@ -1,2 +1,2 @@
-This is the day the lord has made 
-# NEWS FOR THE DAY
+# Java Exercises
+This is a repository containing Java tasks and exercises
